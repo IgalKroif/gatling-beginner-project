@@ -36,6 +36,8 @@ To execute the stress tests, use the following Maven command:
 
 ```sh
 mvn gatling:test
+mvn gatling:test -Dgatling.simulationClass=path.to.your.SimulationClass
+mvn gatling:test -Dgatling.simulationClass=path.to.your.CartStressTest
 ```
 
 ## Test Classes
