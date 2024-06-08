@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="987529d1-6e9f-4253-8272-1660d490e8fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GatlingCrashCourse-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/gatlingdemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IDEPathHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Recorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fakestoreapi/carts/CartStressTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fakestoreapi/feeders/FeederImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fakestoreapi/products/ProductStressHighUserCountTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fakestoreapi/products/ProductStressTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/PojoConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/chainers/ChainCartRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/chainers/ChainProductRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/pojo/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/pojo/PojoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/pojo/ProductList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/RecordedSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/RecordedSimulationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/feeders/VideoGameCsvFeeders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/feeders/VideoGameJsonFeeders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/LoopingRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/RefactoredVideoGamesDbWithSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/RequestAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/VideoGamesDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/VideoGamesDbSaveResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/scriptfundamentals/VideoGamesDbWithSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/simulation/VideoGameDbConstantUsersPerSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/videogamedb/simulation/VideoGameDbSimulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/cartIds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/gameCsvFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/gameJsonFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/productIds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/gatling.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/recorder.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/search.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulation/0002_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulation/0003_request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulation/0004_request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulationproxy/0002_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulationproxy/0003_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulationproxy/0005_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulationproxy/0006_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/videogamedb/recordedsimulationproxy/0007_request.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hame4OwIPJx9VZI2GgOSzFdNws" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Engine.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/igalk/IdeaProjects/gatling-beginner-project/src/main/java/api/gatlingdemo/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Engine" />
+      <module name="gatling-beginner-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Engine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="987529d1-6e9f-4253-8272-1660d490e8fb" name="Changes" comment="" />
+      <created>1717840657062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717840657062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/api/gatlingdemo/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
