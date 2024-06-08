@@ -2,6 +2,8 @@
 
 This project is designed for stress testing the [FakeStoreAPI](https://fakestoreapi.com) using Gatling. The project includes models for Products and Carts, checks, and generates detailed reports. Additionally, it incorporates CSV feeders and files to generate dynamic IDs for testing purposes.
 
+## In the 'master' branch you will find : 
+
 ## Project Structure
 
 - `src/test/scala`: Contains the Gatling simulation files.
